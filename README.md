@@ -1,5 +1,3 @@
-### Conteúdo do `README.md`
-
 ```markdown
 # GLPI Ticket Manager AI 🚀
 
