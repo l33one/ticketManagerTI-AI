@@ -56,7 +56,7 @@ Para o funcionamento do aprendizado contínuo, garanta que o arquivo de exemplos
         "input": "Descrição: [Falha no cancelamento de boleto]\\nCategorias: ['TECNOLOGIA > SISTEMAS', 'SERVICE DESK']",
         "output": {
             "tipo": "Requisição",
-            "categoria": "TECNOLOGIA > SISTEMAS KEDU > OUTROS SISTEMAS",
+            "categoria": "TECNOLOGIA > SISTEMAS > OUTROS SISTEMAS",
             "grupo_tecnico": "Service Desk",
             "impacto": "Baixo",
             "diagnostico": "Classificado como Requisição devido à solicitação não apresentar falha sistêmica.",
