@@ -1,4 +1,3 @@
-```markdown
 # GLPI Ticket Manager AI 🚀
 
 Este projeto é um motor de classificação automática de chamados de TI para o **GLPI**, desenvolvido em **Python**, utilizando o framework **Functions Framework** e implantado na **Google Cloud Platform (GCP)** utilizando o **Cloud Run** (ou Cloud Functions). 
